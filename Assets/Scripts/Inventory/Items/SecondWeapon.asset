@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abe04de3aba73954bb3a3215c33257a2, type: 3}
+  m_Name: SecondWeapon
+  m_EditorClassIdentifier: 
+  Name: "\u041F\u043E\u0441\u043E\u0445"
+  Icon: {fileID: 21300000, guid: c1504416b8ece8e4b8a87e5eb51bfb91, type: 3}
+  MaxStack: 1
+  Type: 0
+  Weapon: {fileID: 5134447050061294256, guid: 9d4e8dbe3081bd242ab17c58a50f4ad1, type: 3}
+  Damage: 1
+  Cooldown: 0
